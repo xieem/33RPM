@@ -3,7 +3,7 @@ Building AI Course Project
 
 ## Summary
 
-The project's goal is to provide a tool, that would allow for easier and better selection of vinyl based on your music taste and budget. It would also enable you to discover hidden gems spread over a bunch of websites and maybe buy the perfect record for the second hand market.
+The project's goal is to provide a tool, that would allow for easier and better selection of vinyl based on your music taste and budget. Discover hidden gems spread over a bunch of websites and maybe buy the perfect record for the second hand market.
 
 
 ## Background
